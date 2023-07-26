@@ -1,0 +1,14 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2761425126225554189
+  },
+  "m_Name": "",
+  "m_boot": -1.0,
+  "m_path": "Assets/East/Sounds/SE/Battle/2090.ogg"
+}

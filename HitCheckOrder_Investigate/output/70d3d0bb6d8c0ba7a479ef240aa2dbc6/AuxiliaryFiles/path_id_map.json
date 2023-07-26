@@ -1,0 +1,129 @@
+{
+  "Files": [
+    {
+      "Name": "cab-1c72dc065b7197b3fe7ea3740af49804",
+      "Assets": [
+        {
+          "PathID": -9121173711355558385,
+          "Name": "BattleScript",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -5758284782388918129,
+          "Name": "HitCheckOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -5683535656321968443,
+          "Name": "EndOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -4078833722856400460,
+          "Name": "PlayCastOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -2761425126225554189,
+          "Name": "LoadSEOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -2518285243765439766,
+          "Name": "SkipOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -2445684986102457354,
+          "Name": "PlayEnvOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -1343569708729143505,
+          "Name": "PlayVoiceOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -522976711886804063,
+          "Name": "LoadSpellNameOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -122600316051734732,
+          "Name": "PlaySEOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 262900157446395546,
+          "Name": "FocusCameraOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 309081944944499668,
+          "Name": "ResetCameraOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 380981752083019654,
+          "Name": "LoadParticleOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 771204769914591461,
+          "Name": "LoadVoiceOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1015618711701964347,
+          "Name": "StopCastOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 2461479373044328552,
+          "Name": "HideGameUnitOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 2475155708546016710,
+          "Name": "StartOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 2562196215138559336,
+          "Name": "ShowSpellNameOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 3189447495853890848,
+          "Name": "FadeOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 3489715265138736358,
+          "Name": "PlaySpineOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 3977727034945988716,
+          "Name": "PlayParticleOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 5959985850167688605,
+          "Name": "HitCheckAllOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8276432034548573333,
+          "Name": "LoadGameUnitOrder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 9134883349382421545,
+          "Name": "ShowGameUnitOrder",
+          "Type": "MonoScript"
+        }
+      ]
+    }
+  ]
+}

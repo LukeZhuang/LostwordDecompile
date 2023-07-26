@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3489715265138736358
+  },
+  "m_Name": "",
+  "m_boot": 11.6,
+  "m_all": 0,
+  "m_loop": 0,
+  "m_name": "attack1_out",
+  "m_side": 0
+}

@@ -1,0 +1,23 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -5758284782388918129
+  },
+  "m_Name": "",
+  "m_boot": 14.900002,
+  "m_hitse": "Assets/East/Sounds/SE/Battle/1014.ogg",
+  "m_mgznid": 0,
+  "m_name": "damage1",
+  "m_stop": 0.0,
+  "m_time": 0.1,
+  "m_xyz": {
+    "x": 0.0,
+    "y": 0.0,
+    "z": 0.0
+  }
+}

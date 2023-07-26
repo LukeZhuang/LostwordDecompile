@@ -1,0 +1,20 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 3977727034945988716
+  },
+  "m_Name": "",
+  "m_boot": 0.0,
+  "m_all": 0,
+  "m_bias": 0,
+  "m_pid": 1,
+  "m_rot": 1,
+  "m_side": 0,
+  "m_skin": 0,
+  "m_uid": 2008
+}
